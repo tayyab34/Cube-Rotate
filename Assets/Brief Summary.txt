@@ -1,0 +1,12 @@
+                                            Cube Rotation and Size Changing
+
+ It includes rotation of cube using arrow keys and size increase on pressing spacebar and reduces on releasing.
+
+ Steps:
+
+ 1) Rotation of cube using transform.rotate
+ 2) Increase size by changing scale parameters
+ 3) Reduce size by reducing scale parameters on releasing spacebar
+
+ I struggled in reducing size at certain limit.
+ I enjoyed it because it needs some logic.
